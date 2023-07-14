@@ -2,9 +2,8 @@
 #include <time.h>
 #include <stdio.h>
 /**
-*main - entry point
-*disciption: 'Check for number if it positive or negative
-*return always 0
+* main - A program that prints a line with the puts function
+* Return: Always 0 (success)
 */
 int main(void)
 {
