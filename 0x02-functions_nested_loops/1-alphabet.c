@@ -1,16 +1,12 @@
 #include "main.h"
+
 /**
-* main - A program that prints a line with the puts function
-* Return: Always 0 (success)
-*/
+ * main - check the code for Holberton School students.
+ *
+ * Return: Always 0.
+ */
 int main(void)
 {
-	int i;
-
-	for (i = 97; i <= 122; i++)
-	{
-		_putchar(i);
-	}
-	_putchar('\n');
+	print_alphabet();
 	return (0);
 }
